@@ -6,5 +6,4 @@ Studying chem at **FLEP**
 
 This profile is just mandatory
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chemikarl)](https://github.com/Chemikarl/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chemikarl)
